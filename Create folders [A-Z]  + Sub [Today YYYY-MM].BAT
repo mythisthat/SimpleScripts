@@ -13,4 +13,3 @@ for %%i in (.\A\%TODAYDATE% .\B\%TODAYDATE% .\C\%TODAYDATE% .\D\%TODAYDATE% .\E\
    if not exist %%i mkdir %%i
 )
 
-%TODAYDATE%
